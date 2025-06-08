@@ -1,0 +1,33 @@
+
+---
+
+### ✅ `.gitignore`
+
+```gitignore
+# Compilados Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+.env/
+.venv/
+
+# Arquivos sensíveis
+*.db
+*.sqlite3
+*.log
+
+# Editor
+.vscode/
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Dados e exportações
+fotos_reprovas/
+*.xlsx
+*.jpeg
