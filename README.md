@@ -46,7 +46,8 @@ python JJS_Piloto.py
 ```
 
 O sistema abrirá uma tela de login, seguida da interface principal com abas de cadastro, movimentações, histórico e gráficos.
-login: admin
+
+Login: admin
 Senha admin123
 
 ## 📁 Estrutura esperada
