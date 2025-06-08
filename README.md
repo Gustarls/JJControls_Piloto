@@ -1,6 +1,6 @@
 # J&JControls
 
-**J&JControls** é um sistema desktop de controle de estoque com foco em rastreabilidade de produtos defeituosos, movimentações internas e análise gráfica de falhas. Ele foi desenvolvido com Python, utilizando interface gráfica com Tkinter e visualizações com Plotly.
+**J&JControls** é um sistema desktop de controle de inventário com foco em rastreabilidade de produtos defeituosos, movimentações internas e análises gráficas. Ele foi desenvolvido com Python, utilizando interface gráfica com Tkinter e visualizações com Plotly.
 
 ## 🧰 Funcionalidades
 
